@@ -1,4 +1,4 @@
-# Sephss
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=What's+up?+I'm+Sephss+👋;Boss+Bossing?)](https://git.io/typing-svg)
 
 **`Bringing Ideas to Life, One APK at a Time`**
 
