@@ -17,5 +17,3 @@ Languages and Tools
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sephss&layout=compact)
-<br />
-![Sephss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sephss&show_icons=true&theme=github_dark_dimmed)
