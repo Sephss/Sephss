@@ -1,9 +1,11 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=What's+up?+I'm+Sephss+👋;Boss+Bossing?)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Boss+Bossing?+;Boss+Bossing?)](https://git.io/typing-svg)
 
+<!--
 **`Bringing Ideas to Life, One APK at a Time`**
-
+-->
+<!--
 I'm a student passionate about Android development, currently sharpening my skills in Java and exploring the world of mobile applications. My goal is to build smooth, efficient, and user-friendly Android apps while continuously learning and growing as a developer.
-
+-->
 Languages and Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
